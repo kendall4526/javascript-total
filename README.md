@@ -3,7 +3,7 @@
 ## curso de HTML, CSS Y Javascript
 
 ## nombre:
-     yariel benavides arroyo
+     kendall gomez muñoz
 
 ### secccion: 10-2
 
