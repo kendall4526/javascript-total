@@ -1,0 +1,9 @@
+.calculo{
+    font-family: monospace;
+    background-color: rgb(193, 180, 180);
+}
+.resultado{
+
+    color: red;
+    font-weight: bold;
+}

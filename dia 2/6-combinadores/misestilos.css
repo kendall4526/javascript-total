@@ -1,0 +1,15 @@
+div p{
+color: green;
+}
+
+ol > li{
+    font-weight: bolder;
+}
+
+h1 + h3{
+    background-color: lightskyblue;
+}
+
+p[aling=left]{
+    background-color: gold;
+}
